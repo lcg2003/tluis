@@ -1,0 +1,96 @@
+
+
+.btn
+{
+    border: 1px solid #909090;
+    border-radius: 0px;
+    background: #ffffff;
+    color: #575757;
+    margin-top: 60px;
+    margin-bottom: 10px;
+}
+
+.btn-green:hover
+{
+    border: 1px solid #00FF00;
+    color: #000000;
+    text-decoration: none;
+}
+
+.btn-green:active
+{
+    border: 1px solid #00FF00;
+    background: #00FF00;
+    color: #000000;
+    text-decoration: none;
+}
+
+.btn-red:hover
+{
+    border: 1px solid #d90000;
+    color: #000000;
+    text-decoration: none;
+}
+
+.btn-red:active
+{
+    border: 1px solid #d90000;
+    background: #d90000;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.section-header
+{
+    margin-top: 40px;
+    margin-bottom: -10px;
+}
+
+.qa
+{
+    margin-top: 50px;
+}
+
+.form-control
+{
+    border-radius: 0px;
+}
+
+.nav-sidebar
+{
+    background: #eeeeee;
+    color: #000000;
+    text-decoration: none;
+}
+
+.nav-sidebar a:link
+{
+    border-top: 1px solid #a1a1a1;
+    color: #000000;
+}
+
+.nav-sidebar a:visited
+{
+    background: #00ccff !important;
+    color: #000000;
+}
+
+.nav-sidebar a:hover
+{
+    background: #00ccff !important;
+    color: #000000;
+}
+
+.nav-sidebar a:active
+{
+    background: #00ccff !important;
+    color: #000000;
+    font-weight: bold !important;
+}
+
+.nav-sidebar li .active{
+    background: #00ccff !important;
+    color: #000000;
+    font-weight: bold !important;
+}
+
