@@ -1,0 +1,135 @@
+/* header */
+
+.box-header
+{
+    height: 20%;
+    width: 100%;
+    background: #000000;
+    color: #ffffff;
+    text-align: center;
+    display: block;
+    vertical-align: middle;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+/* header links */
+
+.box-header a:link
+{
+    color: #ffc000;
+    text-decoration: none;
+}
+
+.box-header a:visited
+{
+    color: #ffc000;
+    text-decoration: none;
+}
+
+.box-header a:hover
+{
+    color: #00ddff;
+    text-decoration: none;
+}
+
+.box-header a:active
+{
+    color: #00ddff;
+    text-decoration: none;
+}
+
+/* Main Screen */
+
+.background
+{
+    background-image: url('http://teamlink.co/themes/frontend/teamlink/assets/teamlink/img/intro-bg.jpg');
+    background-size: cover;
+    height: 65%;
+    min-height: 550px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+/* Login Form */
+
+.box-login
+{
+    width: 50%;
+    color: #000000;
+    background: #ffffff;
+    background-color: rgba(255, 255, 255, 0.75);
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.btn
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #909090;
+    border-radius: 0px;
+    background: #ffffff;
+    color: #575757;
+
+}
+
+.btn:hover
+{
+    border: 1px solid #00ddff;
+    color: #000000;
+    text-decoration: none;
+}
+
+.btn:active
+{
+    background: #00ddff;
+    color: #000000;
+    text-decoration: none;
+}
+
+/* footer */
+
+.box-footer
+{
+    width: 100%;
+    color: $ffffff;
+    background: #000000;
+    height: 15%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+/* footer links */
+
+.box-footer a:link
+{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.box-footer a:visited
+{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.box-footer a:hover
+{
+    color: #00ddff;
+    text-decoration: none;
+}
+
+.box-footer a:active
+{
+    color: #00ddff;
+    text-decoration: none;
+}
+
+.foot-menu a
+{
+    margin-left: 20px;
+    margin-right: 20px;
+}
